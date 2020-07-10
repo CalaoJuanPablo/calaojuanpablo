@@ -1,2 +1,1 @@
-# calaojuanpablo
-Cover for GitHub Profile
+# Juan Pablo Calao
