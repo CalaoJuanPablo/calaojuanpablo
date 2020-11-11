@@ -1,6 +1,6 @@
 ![Hi, I'm Juan Pablo Calao](./images/cover.jpg)
 
-Welcome to my GitHub. I am a Frontend Developer using React JS, HTML, CSS, and JavaScript. I don't just write code, but I have a keen eye for understanding clients' business models in order to develop the best solution for end-users. Highly passionate about learning, teaching, and collaborating in teams. I like good designs and good user experience. Native Spanish speaker with an English working proficiency. You can find more about me on [my personal website calaojuanpablo.com](https://calaojuanpablo.com/).
+Welcome to my GitHub. I am a Frontend Developer using React JS, HTML, CSS, and JavaScript. I don't just write code, but I have a keen eye for understanding clients' business models to develop the best solution for end-users. Highly passionate about learning, teaching, and collaborating in teams. I like good designs and good user experience. Native Spanish speaker with an English working proficiency. You can find more about me on [my website calaojuanpablo.com](https://calaojuanpablo.com/).
 
 ### 📚 I am currently learning
 - Next.JS
