@@ -11,7 +11,7 @@ Welcome to my GitHub. I am a Frontend Developer using React JS, HTML, CSS, and J
 - Typescript
 
 ### 👨‍💻 My current work
-I work in growth team of [Simetrik (YC W18)](https://simetrik.com/), leading the development of the website, responsible of all the important integrations for the team, and the headless CMS for the blog.
+I work as a Frontend Developer at [Zemoga Inc](https://www.zemoga.com/).
 
 ### 👱‍♂️ More about me
 - I am musician, and my main instrument is the electric guitar 🎸.
